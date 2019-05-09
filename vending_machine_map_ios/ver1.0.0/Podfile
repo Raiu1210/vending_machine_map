@@ -1,0 +1,9 @@
+
+platform :ios, '12.0'
+use_frameworks!
+
+target 'vending_machine_map_ios' do
+    pod 'SwiftyJSON', '~> 4.0'
+    pod 'FloatingPanel'
+end
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GADApplicationIdentifier</key>
+	<string>ca-app-pub-9410270200655875~4098363933</string>
+	<key>CLIENT_ID</key>
+	<string>1057465907712-ghqjtmmpluvmo77t14quj6fri7ejq4d1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1057465907712-ghqjtmmpluvmo77t14quj6fri7ejq4d1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCgpjBCFKJOeQ4LRq93w0ET7v_1GfLKh5s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1057465907712</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>work.zihankimap</string>
+	<key>PROJECT_ID</key>
+	<string>zihankimap</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zihankimap.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1057465907712:ios:7065d71e19bfeb0e</string>
+	<key>DATABASE_URL</key>
+	<string>https://zihankimap.firebaseio.com</string>
+</dict>
+</plist>
